@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/proxy/e1fwY_39rPXBx8yJVxFOAf5PeUcBShV9d-Fy3w7fxYQyV2kdBAQONoAbwv0X6LAI17ZBfv11X8RiTFWkAWk9yQsr-ClCWwhU5kZCLNE6Ig">
-  <img src="https://lh3.googleusercontent.com/proxy/cx4zr77Noaac9InbPHdeHc8wbQbtytZRaJ50Az8gU8jZggH4uD50Mo6yHK8djR9rMVZ2Hg9lRuWngi1unWYdLOG4ln6tIFjCqkc">
-  <img src="https://lh3.googleusercontent.com/proxy/e1fwY_39rPXBx8yJVxFOAf5PeUcBShV9d-Fy3w7fxYQyV2kdBAQONoAbwv0X6LAI17ZBfv11X8RiTFWkAWk9yQsr-ClCWwhU5kZCLNE6Ig">
+  <img src="http://www.homerswebpage.com/flash/boca_90px1.gif">
+  <img src="http://www.homerswebpage.com/images/jebusDance.gif">
+  <img src="http://www.homerswebpage.com/flash/tostadora_70px1.gif">
 </p>
 
 <p align="center">
