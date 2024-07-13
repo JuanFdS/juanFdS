@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200">
+  <img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200">
 </p>
 
 <!--
