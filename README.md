@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/dd88a83d0daa75b828dabc45bdd22695/tenor.gif" width="200"><img src="https://media1.tenor.com/images/dd88a83d0daa75b828dabc45bdd22695/tenor.gif" width="200"><img src="https://media1.tenor.com/images/dd88a83d0daa75b828dabc45bdd22695/tenor.gif" width="200"><img src="https://media1.tenor.com/images/dd88a83d0daa75b828dabc45bdd22695/tenor.gif" width="200">
+  <img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200"><img src="ninjaDancing.gif" width="200">
 </p>
 
 <!--
