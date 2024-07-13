@@ -1,5 +1,3 @@
-![wow](https://github.com/user-attachments/assets/90a22907-9e87-4b7b-afca-e35fae7b805a)
-
 <p align="center">
 <img src="j.gif" width="100"><img src="u.gif" width="100"><img src="a.gif" width="100"><img src="n.gif" width="100"><img src="f.gif" width="100"><img src="d.gif" width="100"><img src="s.gif" width="100">
 </p>
