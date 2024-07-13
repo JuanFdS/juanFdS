@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb37e37f-975a-4541-a853-763094727345" alt="Mouse gif">
-  <img src="https://github.com/user-attachments/assets/5cb15b73-c489-4277-9a7e-2c899dc76e7b" alt="Jesus dancing">
-  <img src="https://github.com/user-attachments/assets/e01f0829-2976-4676-af76-4acc6f174aa4" alt="Toaster with wings">
+  <img src="./mouth.gif" alt="Mouse gif">
+  <img src="./jesus.gif" alt="Jesus dancing">
+  <img src="./toaster.gif" alt="Toaster with wings">
 </p>
 
 <p align="center">
