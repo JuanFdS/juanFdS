@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="http://www.homerswebpage.com/flash/boca_90px1.gif">
-  <img src="http://www.homerswebpage.com/images/jebusDance.gif">
-  <img src="http://www.homerswebpage.com/flash/tostadora_70px1.gif">
+  <img src="https://github.com/user-attachments/assets/cb37e37f-975a-4541-a853-763094727345" alt="Mouse gif">
+  <img src="https://github.com/user-attachments/assets/5cb15b73-c489-4277-9a7e-2c899dc76e7b" alt="Jesus dancing">
+  <img src="https://github.com/user-attachments/assets/e01f0829-2976-4676-af76-4acc6f174aa4" alt="Toaster with wings">
 </p>
 
 <p align="center">
