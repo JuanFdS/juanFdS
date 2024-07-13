@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://dance.cavifax.com/images/j.gif" width="100"><img src="http://dance.cavifax.com/images/u.gif" width="100"><img src="http://dance.cavifax.com/images/a.gif" width="100"><img src="http://dance.cavifax.com/images/n.gif" width="100"><img src="http://dance.cavifax.com/images/f.gif" width="100"><img src="http://dance.cavifax.com/images/d.gif" width="100"><img src="http://dance.cavifax.com/images/s.gif" width="100">
+<img src="j.gif" width="100"><img src="u.gif" width="100"><img src="a.gif" width="100"><img src="n.gif" width="100"><img src="f.gif" width="100"><img src="d.gif" width="100"><img src="s.gif" width="100">
 </p>
 
 <p align="center">
